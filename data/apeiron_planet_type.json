@@ -1,0 +1,55 @@
+{
+    "Pure": [
+        {
+            "name": "Gigas"
+        },
+        {
+            "name": "Leviathan"
+        },
+        {
+            "name": "Inferno"
+        },
+        {
+            "name": "Tempest"
+        }
+    ],
+    "Duo": [
+        {
+            "name": "Archipelago"
+        },
+        {
+            "name": "Volcanic"
+        },
+        {
+            "name": "Karsts"
+        },
+        {
+            "name": "Tundra"
+        },
+        {
+            "name": "Delta"
+        },
+        {
+            "name": "Dunes"
+        }
+    ],
+    "Tri": [
+        {
+            "name": "Mountainous"
+        },
+        {
+            "name": "Foresty"
+        },
+        {
+            "name": "Wasteland"
+        },
+        {
+            "name": "Oasis"
+        }
+    ],
+    "Quad": [
+        {
+            "name": "Normal"
+        }
+    ]
+}
